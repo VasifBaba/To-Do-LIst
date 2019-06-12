@@ -1,0 +1,22 @@
+body{
+    background: url(paper_text.png);
+}
+.arxafon{
+    background-color: rgba(41,92,185,0.8);
+    color: #fff;
+}
+h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+    color: #295cb9;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+    color: #295cb9;
+}
+
+#box p{
+    color: #fff;
+}
